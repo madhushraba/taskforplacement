@@ -1,0 +1,81 @@
+.wrapper{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+.main{
+    position: relative;
+ background-color:#D25B70 ;
+ height: 250px;   
+ width: 400px;
+}
+.one{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 200;
+    border-radius: 10px;
+    left: 100;
+    background-color: #F2E09F;
+}
+.two{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 166;
+    left: 110;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(36deg);
+}
+.three{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 147;
+    left: 134;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(65deg);
+}
+.four{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 142;
+    left: 161;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(90deg);
+}
+.five{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 147;
+    left: 187;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(115deg);
+}
+.six{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 166;
+    left: 210;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(144deg);
+}
+
+.seven{
+    position: absolute;
+    width: 80px;
+    height: 8px;
+    top: 200;
+    left: 220;
+    background-color: #F2E09F;
+    border-radius: 10px;
+    transform: rotate(180deg);
+}
